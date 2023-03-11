@@ -47,7 +47,7 @@ class _LGAppListState extends State<LGAppList>
       "Free parking Visualization Tool",
       "Gesture Controller to Liquid Galaxy",
       "3D_Visualization_API",
-      "Liquid Galaxy Controller Application (Redsigned & Developed by Shreyas)",
+      "Liquid Galaxy Controller Application (Redesigned & Developed by Shreyas)",
       "IBRI Drone",
     ];
 
