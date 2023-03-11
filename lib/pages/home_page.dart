@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Liquid Galaxy Task 3.2"),
-        backgroundColor: Color.fromARGB(255, 193, 24, 97),
+        backgroundColor: const Color.fromARGB(255, 193, 24, 97),
       ),
       body: Center(
         child: Column(

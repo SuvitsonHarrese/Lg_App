@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 
 class LGAppList extends StatefulWidget {
   const LGAppList({super.key});
@@ -48,7 +47,8 @@ class _LGAppListState extends State<LGAppList>
       "Free parking Visualization Tool",
       "Gesture Controller to Liquid Galaxy",
       "3D_Visualization_API",
-      "Liquid Galaxy Controller Application (Redsigned & Developed by Shreyas)"
+      "Liquid Galaxy Controller Application (Redsigned & Developed by Shreyas)",
+      "IBRI Drone",
     ];
 
     // Creted TabBar for separation
